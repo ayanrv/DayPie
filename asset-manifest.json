@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/DayPie/static/css/main.63192cd4.css",
+    "main.css": "/DayPie/static/css/main.0c04cb9f.css",
     "main.js": "/DayPie/static/js/main.23fa919c.js",
     "index.html": "/DayPie/index.html",
-    "main.63192cd4.css.map": "/DayPie/static/css/main.63192cd4.css.map",
+    "main.0c04cb9f.css.map": "/DayPie/static/css/main.0c04cb9f.css.map",
     "main.23fa919c.js.map": "/DayPie/static/js/main.23fa919c.js.map"
   },
   "entrypoints": [
-    "static/css/main.63192cd4.css",
+    "static/css/main.0c04cb9f.css",
     "static/js/main.23fa919c.js"
   ]
 }
